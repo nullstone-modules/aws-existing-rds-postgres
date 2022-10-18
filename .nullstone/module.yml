@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-existing-rds-postgres
+friendly_name: Existing RDS Postgres
+description: Import an existing RDS Postgres to easily hook into Nullstone
+category: datastore
+subcategory: ""
+provider_types:
+    - aws
+platform: postgres
+subplatform: rds
+type: ""
+appCategories: []
+is_public: true
