@@ -1,3 +1,7 @@
+# 0.1.1 (Aug 15, 2023)
+* Added `.terraform.lock.hcl`.
+* Upgraded `pg-db-admin` with additional logging.
+
 # 0.1.0 (May 12, 2023)
 * Upgrade `pg-db-admin` to fix issues when user chooses `database_name="postgres"` in postgres access.
 
