@@ -1,3 +1,6 @@
+# 0.2.0 (Oct 13, 2023)
+* Upgraded `pg-db-admin` to support lambda invocations.
+
 # 0.1.1 (Aug 15, 2023)
 * Added `.terraform.lock.hcl`.
 * Upgraded `pg-db-admin` with additional logging.
