@@ -1,3 +1,6 @@
+# 0.2.1 (Feb 06, 2023)
+* Added metrics support.
+
 # 0.2.0 (Oct 13, 2023)
 * Upgraded `pg-db-admin` to support lambda invocations.
 
