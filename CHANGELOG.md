@@ -1,4 +1,10 @@
-# 0.2.1 (Feb 06, 2023)
+# 0.2.3 (Sep 11, 2024)
+* Fixed enabling of log reader.
+
+# 0.2.2 (Mar 10, 2024)
+* Upgraded Terraform providers.
+
+# 0.2.1 (Feb 06, 2024)
 * Added metrics support.
 
 # 0.2.0 (Oct 13, 2023)

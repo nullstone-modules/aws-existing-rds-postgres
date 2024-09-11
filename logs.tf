@@ -15,7 +15,7 @@ resource "aws_iam_user_policy" "log_reader" {
 
 data "aws_iam_policy_document" "log_reader" {
   dynamic "statement" {
-    for_each = local.enabled_logs ? [1] : []
+    for_each = len(local.enabled_logs) ? [1] : []
 
     content {
       sid    = "AllowReadLogs"
